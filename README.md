@@ -1,2 +1,2 @@
 # cedaj-py
-A simple wrapper for web.whatapp in python e pyQt
+A simple wrapper for web.whatsapp in python e pyQt
